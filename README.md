@@ -1,4 +1,4 @@
-ITW Project – INC 5000 Companies Analysis
+Project – INC 5000 Companies Analysis
 
 This project is based on the Kaggle INC 5000 Companies Dataset, which contains information about the fastest-growing private companies in the United States.
 The goal of this ITW project is to clean, analyze, and visualize the dataset to understand industry trends, revenue patterns, growth rates, and geographic distribution.
